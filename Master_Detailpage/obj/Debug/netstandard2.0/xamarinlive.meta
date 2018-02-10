@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\AboutPage.xaml</FilePath>
+      <Hash>20-B1-5F-F7-75-34-05-EB-4C-AC-5A-E3-EE-19-A8-E7</Hash>
+      <Properties>
+        <string>Title</string>
+        <string>Icon</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\App.xaml</FilePath>
+      <Hash>52-E3-A0-F5-E5-49-95-BB-06-81-81-D0-DD-12-4B-23</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\ContactPage.xaml</FilePath>
+      <Hash>7D-D2-D1-CC-79-C2-25-B9-F3-43-E2-A5-CD-9C-B9-E4</Hash>
+      <Properties>
+        <string>Title</string>
+        <string>Icon</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\HomePage.xaml</FilePath>
+      <Hash>30-89-6B-56-BA-60-25-48-CB-98-48-FE-61-83-00-CC</Hash>
+      <Properties>
+        <string>Title</string>
+        <string>Icon</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\MainPage.xaml</FilePath>
+      <Hash>9F-EB-3F-2E-FB-84-12-FB-AC-A5-5B-65-F3-6D-51-65</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\MasterPage.xaml</FilePath>
+      <Hash>74-01-61-83-10-70-EE-F8-D3-09-71-1D-66-D8-33-3C</Hash>
+      <Properties>
+        <string>Padding</string>
+        <string>Icon</string>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\TutorialPage.xaml</FilePath>
+      <Hash>42-49-06-FF-56-C0-AE-A8-B0-0D-76-88-B1-1C-56-74</Hash>
+      <Properties>
+        <string>Title</string>
+        <string>Icon</string>
+      </Properties>
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>

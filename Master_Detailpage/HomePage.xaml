@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Master_Detailpage.HomePage"
+             Title="Home page"
+             Icon="home.png">
+    <StackLayout>
+        <Label Text="Home Page"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Large"
+                TextColor="#184757"
+                Font="bold, 40"
+         />
+    </StackLayout>
+</ContentPage>

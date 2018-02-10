@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Master_Detailpage.TutorialPage"
+    Title="Tutorial page"
+             Icon="tutorial.png">
+    <StackLayout>
+        <Label Text="Tutorial Page"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Large"
+                TextColor="#184757"
+                Font="bold, 40"
+            />
+    </StackLayout>
+</ContentPage>

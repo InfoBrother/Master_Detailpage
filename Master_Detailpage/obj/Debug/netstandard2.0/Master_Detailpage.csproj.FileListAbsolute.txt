@@ -1,0 +1,15 @@
+C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\obj\Debug\netstandard2.0\Master_Detailpage.csprojResolveAssemblyReference.cache
+C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\obj\Debug\netstandard2.0\Master_Detailpage.csproj.CoreCompileInputs.cache
+C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\obj\Debug\netstandard2.0\Master_Detailpage.AboutPage.xaml.g.cs
+C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\obj\Debug\netstandard2.0\Master_Detailpage.App.xaml.g.cs
+C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\obj\Debug\netstandard2.0\Master_Detailpage.HomePage.xaml.g.cs
+C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\obj\Debug\netstandard2.0\Master_Detailpage.MainPage.xaml.g.cs
+C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\obj\Debug\netstandard2.0\Master_Detailpage.MasterPage.xaml.g.cs
+C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\obj\Debug\netstandard2.0\Master_Detailpage.AssemblyInfoInputs.cache
+C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\obj\Debug\netstandard2.0\Master_Detailpage.AssemblyInfo.cs
+C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\obj\Debug\netstandard2.0\Master_Detailpage.dll
+C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\obj\Debug\netstandard2.0\Master_Detailpage.pdb
+C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\bin\Debug\netstandard2.0\Master_Detailpage.deps.json
+C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\bin\Debug\netstandard2.0\Master_Detailpage.dll
+C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\bin\Debug\netstandard2.0\Master_Detailpage.pdb
+C:\Users\sarda\source\repos\Master_Detailpage\Master_Detailpage\Master_Detailpage\obj\Debug\netstandard2.0\Master_Detailpage.TutorialPage.xaml.g.cs
